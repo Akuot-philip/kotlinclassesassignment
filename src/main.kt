@@ -1,12 +1,12 @@
 fun main(){
 
- var food= Human("Akuot",21,80.0F)
+ var food= Human("Queenter",21,80.0F)
     food.eat(2)
     println(food.weight)
 
-    food.speak("My name is Akuot and i love kotlin")
+    food.speak("My name is Queenter and i love kotlin")
     food.birthday()
-    var x=user("Akuot","Philip","akuotphilipp@gmail.com",792345087,"Dinskey")
+    var x=user("Akuot","Queenter","ahffghilipp@gmail.com",792345087,"Dinskey")
     (println(x.firstName))
     (println(x.lastName))
     (println(x.email))
